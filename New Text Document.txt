@@ -1,0 +1,31 @@
+
+.container{
+    margin-bottom: 50px;
+}
+.nav-section{
+    margin: 0;
+    padding: 0;
+}
+.buy-now-button {
+	background-color: black;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 10px;
+}
+
+
+.header-box-control h2 {
+    padding-bottom: 20px;
+}
+.header-box-control p {
+    padding-bottom: 20px;
+    width: 75%;
+}
+.bg-imageset{
+    background-image: url("bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.see-all{
+    color:#FFAE2A ;
+}

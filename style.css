@@ -1,0 +1,79 @@
+
+.container{
+    margin-bottom: 50px;
+}
+.nav-section{
+    margin: 0;
+    padding: 0;
+}
+.buy-now-button {
+	background-color: black;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 10px;
+}
+
+
+.header-box-control h2 {
+    padding-bottom: 20px;
+}
+.header-box-control p {
+    padding-bottom: 20px;
+    width: 75%;
+}
+.bg-imageset{
+    background-image: url("bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.see-all{
+    color:#FFAE2A ;
+}
+.card-footer{
+    border-top: none;
+    background: white;
+}
+
+.card-img-top {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    margin-top: 10%;
+    padding-bottom: -11px;
+  }
+  .card.h-100 {
+    padding-bottom: 10px;
+    border: none;
+    box-shadow: 2px 2px 5px gray;
+    border-radius: 10px;
+  }
+  .text-color h5{
+    color: #000000;
+    font-weight: bold;
+  }
+  .image-bg{
+    background-image: url("bg-2.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-top: 30px;
+  }
+  hr.rounded {
+	border-top: 8px solid #FFAC2F;
+	border-radius: 5px;
+	width: 10%;
+	text-align: center;
+	margin: 0px auto;
+    opacity: 1;
+}
+.box-shadow-control{
+    width: 230px;
+    height: 250px;
+    box-shadow: 5px 5px 10px gray;
+}
+.margin-control{
+    margin-top: 80%;
+}
+.margin-padding{
+    margin-top: 10%;
+}
